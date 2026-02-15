@@ -84,8 +84,3 @@ Key Dashboards:
 
 	Refreshes daily or hourly from S3.
 
-🔹 Security Measures
-🔹 Monitoring & Alerts
-🔹 Screenshots
-🔹 Learnings
-

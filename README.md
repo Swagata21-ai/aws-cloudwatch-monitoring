@@ -61,7 +61,7 @@ My book chapter *“Emerging Technologies in Cybersecurity”* (co-authored with
 - [Chapter PDF](https://github.com/Swagata21-ai/aws-cloudwatch-monitoring/blob/Book-Chapter-Submitted/Blockchain%20and%20Quantum%20Computing%20Technologies%20for%20Cybersecurity_Swagata%20Sinha%20.pdf)
 - [Plagiarism Report](https://github.com/Swagata21-ai/aws-cloudwatch-monitoring/blob/Plagiarism-Report_Book-Chapter/Plagiarism%20Report.pdf) 
 - [Copyright Form](https://github.com/Swagata21-ai/aws-cloudwatch-monitoring/blob/Copyright-Form-Book-Chapter/Copyright%20Report.pdf)
-- [Book TOC (Proof of Indexing)](
+- [Book TOC (Proof of Indexing)](https://github.com/Swagata21-ai/aws-cloudwatch-monitoring/blob/Book_TOC/Screenshot%202026-06-01%20191627.png)
 
 ### 📌 Notes
 - Plagiarism compliance: **7%** (below required <10%).  
